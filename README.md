@@ -13,4 +13,4 @@ Main goal of this application are :
 <li>Java</li>
 <li>Minimum SDK level 21.</li>
 <li>Retrofit Library</li>
-<li>Singleton Pattern</li>.
+<li>Singleton Pattern</li>
